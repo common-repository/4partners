@@ -1,0 +1,137 @@
+# Copyright (C) 2022 4partners
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: 4partners 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/4partners\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-09-05T13:55:05+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: 4partners\n"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "4partners"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Description of the plugin
+msgid "-"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "4partners.io"
+msgstr ""
+
+#: classes/Plugin.php:189
+msgid "4partners plugin error: please install and activate WooCommerce wordpress plugin"
+msgstr ""
+
+#: classes/Services/CategoryService.php:165
+msgid "4partners price adjustment"
+msgstr ""
+
+#: classes/Services/CategoryService.php:175
+msgid "No less than"
+msgstr ""
+
+#: classes/Services/ProductService.php:55
+msgid "Fix product field values"
+msgstr ""
+
+#: classes/Services/ProductService.php:62
+msgid "Title"
+msgstr ""
+
+#: classes/Services/ProductService.php:65
+msgid "Description"
+msgstr ""
+
+#: classes/Services/ProductService.php:68
+#: classes/Services/SettingsService.php:278
+msgid "Category"
+msgstr ""
+
+#: classes/Services/SettingsService.php:59
+#: classes/Services/SettingsService.php:126
+msgid "Synchronization"
+msgstr ""
+
+#: classes/Services/SettingsService.php:60
+#: classes/Services/SettingsService.php:134
+#: classes/Services/SettingsService.php:362
+msgid "Categories"
+msgstr ""
+
+#: classes/Services/SettingsService.php:202
+msgid "Daily"
+msgstr ""
+
+#: classes/Services/SettingsService.php:203
+msgid "Twice daily"
+msgstr ""
+
+#: classes/Services/SettingsService.php:204
+msgid "Weekly"
+msgstr ""
+
+#: classes/Services/SettingsService.php:212
+msgid "How often to sync products?"
+msgstr ""
+
+#: classes/Services/SettingsService.php:260
+msgid "Please check categories for import from API"
+msgstr ""
+
+#: classes/Services/SettingsService.php:276
+msgid "Check all"
+msgstr ""
+
+#: classes/Services/SettingsService.php:279
+msgid "Amount"
+msgstr ""
+
+#: classes/Services/SettingsService.php:280
+msgid "Started at"
+msgstr ""
+
+#: classes/Services/SettingsService.php:281
+msgid "Ended at"
+msgstr ""
+
+#: classes/Services/SettingsService.php:282
+msgid "Status"
+msgstr ""
+
+#: classes/Services/SettingsService.php:283
+msgid "Items loaded"
+msgstr ""
+
+#: classes/Services/SettingsService.php:335
+msgid "Processing..."
+msgstr ""
+
+#: classes/Services/SettingsService.php:337
+msgid "Error"
+msgstr ""
+
+#: classes/Services/SettingsService.php:339
+msgid "Completed"
+msgstr ""
+
+#: classes/Services/SettingsService.php:363
+msgid "Products"
+msgstr ""
+
+#: classes/Services/SettingsService.php:365
+msgid "Progress"
+msgstr ""
+
+#: classes/Services/SettingsService.php:438
+msgid "Checked categories"
+msgstr ""
